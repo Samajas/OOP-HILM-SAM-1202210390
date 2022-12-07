@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
         "PRAKTIKUM OOP/src",
-        "Modul 2 TP"
+        "Modul 2/src",
+        "Modul 2 TP",
+        "Modoul2/src",
+        "Modul 2_Samuel/src"
     ]
 }
